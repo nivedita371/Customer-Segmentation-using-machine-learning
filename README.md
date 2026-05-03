@@ -11,6 +11,8 @@ This app allows you to classify customers into clusters based on their features 
 - **Feature Selection:** Choose the most relevant features for clustering.
 - **Clustering:** Segment customers using ML algorithms (like KMeans).
 - **Real-Time Prediction:** Predict customer segments directly on the web app.
+- **Sample profile presets:** Load example customer profiles for faster testing.
+- **Prediction confidence score:** See how closely the customer matches the predicted cluster.
 - **Interactive Dashboard:** Visualize clusters and key metrics.
 
 ---
